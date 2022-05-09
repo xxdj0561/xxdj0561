@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xxdj0561
+- 👋 Hi, I’m Dheeraj Jangid
 - 👀 I’m interested to like solving datasets problems, gaining insights and predicting outcome of it. 
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me www.linkedin.com/in/dheeraj-jangid-3a197a177
